@@ -1,0 +1,34 @@
+{
+  "mods": [
+    {
+      "id": "BlippedupMoveableRefrigerator",
+      "name": "BlippedupMoveableRefrigerator",
+      "file": "BlippedupMoveableRefrigerator.pak",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_DJ_Portable",
+      "name": "Kronos_DJ_Portable",
+      "file": "Kronos_DJ_Portable.pak",
+      "mandatory": true
+    },
+	{
+      "id": "Landscape_B_2_4b_BM_Luces",
+      "name": "Landscape_B_2_4b_BM_Luces",
+      "file": "Landscape_B_2_4b_BM_Luces.pak",
+      "mandatory": true
+    },
+	{
+      "id": "PressDrillMod",
+      "name": "PressDrillMod",
+      "file": "PressDrillMod.pak",
+      "mandatory": true
+    },
+	{
+      "id": "TexturesT_Poster_4x1k_03_D",
+      "name": "TexturesT_Poster_4x1k_03_D",
+      "file": "TexturesT_Poster_4x1k_03_D.pak",
+      "mandatory": true
+    }
+  ]
+}

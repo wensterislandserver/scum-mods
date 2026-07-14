@@ -1,0 +1,50 @@
+{
+  "launcher_min_version": "1.0.0",
+  "mods": [
+    {
+      "id": "BlippedupMoveableRefrigerator",
+      "name": "BlippedupMoveableRefrigerator",
+      "version": "1",
+      "file": "BlippedupMoveableRefrigerator.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/BlippedupMoveableRefrigerator.pak",
+      "sha256": "4219cefb2288a0d731884eb56a2a16970c80499afa346ab76d09ccbf4516a261",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_DJ_Portable",
+      "name": "Kronos_DJ_Portable",
+      "version": "1",
+      "file": "Kronos_DJ_Portable.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/Kronos_DJ_Portable.pak",
+      "sha256": "2b486dfbea4ad7087f46d21e4ce473b6b471080bcb2eb0f3c2cf5e4f9a535937",
+      "mandatory": true
+    },
+    {
+      "id": "Landscape_B_2_4b_BM_Luces",
+      "name": "Landscape_B_2_4b_BM_Luces",
+      "version": "1",
+      "file": "Landscape_B_2_4b_BM_Luces.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/Landscape_B_2_4b_BM_Luces.pak",
+      "sha256": "e4637c4dd6af62fc7868b0c725caac8e08c59d393f3c0a7adc31ee6cdcf33276",
+      "mandatory": true
+    },
+    {
+      "id": "PressDrillMod",
+      "name": "PressDrillMod",
+      "version": "1",
+      "file": "PressDrillMod.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/PressDrillMod.pak",
+      "sha256": "0a588862e8730ec8ae1326f58d2d09db0d102e0038ee01b7745a8dc89ddfb00e",
+      "mandatory": true
+    },
+    {
+      "id": "TexturesT_Poster_4x1k_03_D",
+      "name": "TexturesT_Poster_4x1k_03_D",
+      "version": "1",
+      "file": "TexturesT_Poster_4x1k_03_D.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/TexturesT_Poster_4x1k_03_D.pak",
+      "sha256": "8381207e8f927b1e0f0cd92b1f4ea40015dd3b9dc99b5597b218058060ab1adf",
+      "mandatory": true
+    }
+  ]
+}
