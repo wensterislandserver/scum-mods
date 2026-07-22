@@ -2,15 +2,6 @@
   "launcher_min_version": "1.0.0",
   "mods": [
     {
-      "id": "BlippedupMoveableRefrigerator",
-      "name": "BlippedupMoveableRefrigerator",
-      "version": "1",
-      "file": "BlippedupMoveableRefrigerator.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/BlippedupMoveableRefrigerator.pak",
-      "sha256": "4219cefb2288a0d731884eb56a2a16970c80499afa346ab76d09ccbf4516a261",
-      "mandatory": true
-    },
-    {
       "id": "Kronos_DJ_Portable",
       "name": "Kronos_DJ_Portable",
       "version": "1",
@@ -22,10 +13,10 @@
     {
       "id": "Landscape_B_2_4b_BM_Luces",
       "name": "Landscape_B_2_4b_BM_Luces",
-      "version": "1",
+      "version": "2",
       "file": "Landscape_B_2_4b_BM_Luces.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/Landscape_B_2_4b_BM_Luces.pak",
-      "sha256": "e4637c4dd6af62fc7868b0c725caac8e08c59d393f3c0a7adc31ee6cdcf33276",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Landscape_B_2_4b_BM_Luces.pak",
+      "sha256": "1837fe48a53c0c3b3de6b7ef262d0a060986b46fe7ca5cbcb7a342142e19047d",
       "mandatory": true
     },
     {
@@ -44,6 +35,24 @@
       "file": "TexturesT_Poster_4x1k_03_D.pak",
       "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/TexturesT_Poster_4x1k_03_D.pak",
       "sha256": "8381207e8f927b1e0f0cd92b1f4ea40015dd3b9dc99b5597b218058060ab1adf",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_Boosted_Generator",
+      "name": "Kronos_Boosted_Generator",
+      "version": "1",
+      "file": "Kronos_Boosted_Generator.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Kronos_Boosted_Generator.pak",
+      "sha256": "40b47cdfe698e1cfe592b0afc3a91071d2dc35be4340b8bfa922daffa3ba5fc8",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_Portable_Refrigerator",
+      "name": "Kronos_Portable_Refrigerator",
+      "version": "1",
+      "file": "Kronos_Portable_Refrigerator.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Kronos_Portable_Refrigerator.pak",
+      "sha256": "1c6a9abf0747451abfe49f90fd44003957f94fa8aee68c6a9f98324382caa824",
       "mandatory": true
     }
   ]
