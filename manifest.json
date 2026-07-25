@@ -12,15 +12,6 @@
       "mandatory": true
     },
     {
-      "id": "Landscape_B_2_4b_BM_Luces",
-      "name": "Landscape_B_2_4b_BM_Luces",
-      "version": "2",
-      "file": "Landscape_B_2_4b_BM_Luces.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Landscape_B_2_4b_BM_Luces.pak",
-      "sha256": "1837fe48a53c0c3b3de6b7ef262d0a060986b46fe7ca5cbcb7a342142e19047d",
-      "mandatory": true
-    },
-    {
       "id": "PressDrillMod",
       "name": "PressDrillMod",
       "version": "1",
@@ -54,6 +45,33 @@
       "file": "Kronos_Portable_Refrigerator.pak",
       "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Kronos_Portable_Refrigerator.pak",
       "sha256": "1c6a9abf0747451abfe49f90fd44003957f94fa8aee68c6a9f98324382caa824",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_BigRaft_Plus",
+      "name": "Kronos_BigRaft_Plus",
+      "version": "1",
+      "file": "Kronos_BigRaft_Plus.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v3/Kronos_BigRaft_Plus.pak",
+      "sha256": "fbd0777e2558f09cb9e2e6c58aa426c38d9c841c246ff1943ead19ef3e4c3fbc",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_BM",
+      "name": "Kronos_BM",
+      "version": "1",
+      "file": "Kronos_BM.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v3/Kronos_BM.pak",
+      "sha256": "a01af6434212b0dc70e61dab25bc12450b6acca9d75ec2b1f12e8bf4d68318f0",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_Map",
+      "name": "Kronos_Map",
+      "version": "1",
+      "file": "Kronos_Map.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v3/Kronos_Map.pak",
+      "sha256": "3ffd4d7ed6b39d99e9cb3a8da61be1d7cbc38cb9d0bdfd83a1c8672929c98dad",
       "mandatory": true
     }
   ]
