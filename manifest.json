@@ -3,102 +3,12 @@
   "launcher_download_url": "https://github.com/wensterislandserver/scum-mods/releases/download/launcher-v1.4.0/WensterIslandLauncher-Setup.exe",
   "mods": [
     {
-      "id": "Kronos_DJ_Portable",
-      "name": "Kronos_DJ_Portable",
+      "id": "Kronos_Wenster_Island",
+      "name": "Kronos_Wenster_Island",
       "version": "1",
-      "file": "Kronos_DJ_Portable.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/Kronos_DJ_Portable.pak",
-      "sha256": "2b486dfbea4ad7087f46d21e4ce473b6b471080bcb2eb0f3c2cf5e4f9a535937",
-      "mandatory": true
-    },
-    {
-      "id": "PressDrillMod",
-      "name": "PressDrillMod",
-      "version": "1",
-      "file": "PressDrillMod.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/PressDrillMod.pak",
-      "sha256": "0a588862e8730ec8ae1326f58d2d09db0d102e0038ee01b7745a8dc89ddfb00e",
-      "mandatory": true
-    },
-    {
-      "id": "TexturesT_Poster_4x1k_03_D",
-      "name": "TexturesT_Poster_4x1k_03_D",
-      "version": "1",
-      "file": "TexturesT_Poster_4x1k_03_D.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v1/TexturesT_Poster_4x1k_03_D.pak",
-      "sha256": "8381207e8f927b1e0f0cd92b1f4ea40015dd3b9dc99b5597b218058060ab1adf",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_Boosted_Generator",
-      "name": "Kronos_Boosted_Generator",
-      "version": "1",
-      "file": "Kronos_Boosted_Generator.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Kronos_Boosted_Generator.pak",
-      "sha256": "40b47cdfe698e1cfe592b0afc3a91071d2dc35be4340b8bfa922daffa3ba5fc8",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_Portable_Refrigerator",
-      "name": "Kronos_Portable_Refrigerator",
-      "version": "1",
-      "file": "Kronos_Portable_Refrigerator.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v2/Kronos_Portable_Refrigerator.pak",
-      "sha256": "1c6a9abf0747451abfe49f90fd44003957f94fa8aee68c6a9f98324382caa824",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_BigRaft_Plus",
-      "name": "Kronos_BigRaft_Plus",
-      "version": "1",
-      "file": "Kronos_BigRaft_Plus.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v3/Kronos_BigRaft_Plus.pak",
-      "sha256": "fbd0777e2558f09cb9e2e6c58aa426c38d9c841c246ff1943ead19ef3e4c3fbc",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_BM",
-      "name": "Kronos_BM",
-      "version": "1",
-      "file": "Kronos_BM.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v3/Kronos_BM.pak",
-      "sha256": "a01af6434212b0dc70e61dab25bc12450b6acca9d75ec2b1f12e8bf4d68318f0",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_Map",
-      "name": "Kronos_Map",
-      "version": "1",
-      "file": "Kronos_Map.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v3/Kronos_Map.pak",
-      "sha256": "3ffd4d7ed6b39d99e9cb3a8da61be1d7cbc38cb9d0bdfd83a1c8672929c98dad",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_Gas_Lamp_DepositoX4",
-      "name": "Kronos_Gas_Lamp_DepositoX4",
-      "version": "1",
-      "file": "Kronos_Gas_Lamp_DepositoX4.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v4/Kronos_Gas_Lamp_DepositoX4.pak",
-      "sha256": "d76f54b3d789a125ef185b752c056a53b6ee69a0de3aa1101ed74c4928bb69e5",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_Tractor_Turbo",
-      "name": "Kronos_Tractor_Turbo",
-      "version": "1",
-      "file": "Kronos_Tractor_Turbo.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v4/Kronos_Tractor_Turbo.pak",
-      "sha256": "f05b50a7ebd679125bed82f6eafd2dbb62990f3364bc502f598a9f3f8b1502e8",
-      "mandatory": true
-    },
-    {
-      "id": "Kronos_Hazmat_Suit_Plus",
-      "name": "Kronos_Hazmat_Suit_Plus",
-      "version": "1",
-      "file": "Kronos_Hazmat_Suit_Plus.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v4/Kronos_Hazmat_Suit_Plus.pak",
-      "sha256": "d4acf0da24ae769068d6fbeb26ea9ae0abb74e871de42658b60d4d6c720ffbc0",
+      "file": "Kronos_Wenster_Island.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v5/Kronos_Wenster_Island.pak",
+      "sha256": "dda47cdc24ca395cdb90a028c74fb228617ab06f7aa2370410f66e388af7e910",
       "mandatory": true
     }
   ]
