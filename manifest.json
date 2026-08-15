@@ -1,7 +1,7 @@
 {
   "launcher_min_version": "1.4.0",
   "launcher_download_url": "https://github.com/wensterislandserver/scum-mods/releases/download/launcher-v1.4.0/WensterIslandLauncher-Setup.exe",
-  "mods_globally_disabled": false,
+  "mods_globally_disabled": true,
   "mods": [
     {
       "id": "Kronos_Wenster_Island",
