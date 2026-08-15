@@ -1,14 +1,15 @@
 {
-  "launcher_min_version": "1.3.4",
-  "launcher_download_url": "https://github.com/wensterislandserver/scum-mods/releases/download/launcher-v1.3.4/WensterIslandLauncher-Setup.exe",
+  "launcher_min_version": "1.4.0",
+  "launcher_download_url": "https://github.com/wensterislandserver/scum-mods/releases/download/launcher-v1.4.0/WensterIslandLauncher-Setup.exe",
+  "mods_globally_disabled": false,
   "mods": [
     {
       "id": "Kronos_Wenster_Island",
       "name": "Kronos_Wenster_Island",
-      "version": "4",
+      "version": "5",
       "file": "Kronos_Wenster_Island.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v8/Kronos_Wenster_Island.pak",
-      "sha256": "7c133ae9c8214f4492dcc89de580f7464855bdf3722e33ad5e2a3ed2a921f6a4",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v9/Kronos_Wenster_Island.pak",
+      "sha256": "ef577aa154704126af08a63b1015d49c8420fc91a3e6223400aa98ba46b00f15",
       "mandatory": true
     }
   ]
