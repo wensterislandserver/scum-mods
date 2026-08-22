@@ -6,10 +6,10 @@
     {
       "id": "Kronos_Wenster_Island",
       "name": "Kronos_Wenster_Island",
-      "version": "6",
+      "version": "7",
       "file": "Kronos_Wenster_Island.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v10/Kronos_Wenster_Island.pak",
-      "sha256": "693070175ddb0c276426e8cfd946ff1fd78a1d4380b9d879d7131068e9442f8d",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v11/Kronos_Wenster_Island.pak",
+      "sha256": "550b60f79f48ddc3c0e3fe692fea1c424f8e230d896f019f0b035277dfbfe4bb",
       "mandatory": true
     }
   ]
