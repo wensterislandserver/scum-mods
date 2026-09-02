@@ -11,6 +11,15 @@
       "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v12/Kronos_Wenster_Island.pak",
       "sha256": "0b3f117f8517309abba67dff44bf5b3e19e423792973a9902200342f46dc4cbd",
       "mandatory": true
+    },
+    {
+      "id": "OynlenCyberPunkKatana",
+      "name": "OynlenCyberPunkKatana",
+      "version": "1",
+      "file": "OynlenCyberPunkKatana.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v13/OynlenCyberPunkKatana.pak",
+      "sha256": "43d4d64b04944ef8a3d002c7944909916a5588595b5debda3c8e6e11117d9ccf",
+      "mandatory": true
     }
   ]
 }
