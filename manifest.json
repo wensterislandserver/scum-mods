@@ -4,21 +4,21 @@
   "mods_globally_disabled": false,
   "mods": [
     {
-      "id": "Kronos_Wenster_Island",
-      "name": "Kronos_Wenster_Island",
-      "version": "8",
-      "file": "Kronos_Wenster_Island.pak",
-      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v12/Kronos_Wenster_Island.pak",
-      "sha256": "0b3f117f8517309abba67dff44bf5b3e19e423792973a9902200342f46dc4cbd",
-      "mandatory": true
-    },
-    {
       "id": "OynlenCyberPunkKatana",
       "name": "OynlenCyberPunkKatana",
       "version": "1",
       "file": "OynlenCyberPunkKatana.pak",
       "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v13/OynlenCyberPunkKatana.pak",
       "sha256": "43d4d64b04944ef8a3d002c7944909916a5588595b5debda3c8e6e11117d9ccf",
+      "mandatory": true
+    },
+    {
+      "id": "Kronos_Wenster_Island_halloween_patch",
+      "name": "Kronos_Wenster_Island_halloween_patch",
+      "version": "1",
+      "file": "Kronos_Wenster_Island_halloween_patch.pak",
+      "url": "https://github.com/wensterislandserver/scum-mods/releases/download/v14/Kronos_Wenster_Island_halloween_patch.pak",
+      "sha256": "bd013c1f0e45187b757172879450a90763ac6b8551ae49513ae186b9ad6ba80a",
       "mandatory": true
     }
   ]
